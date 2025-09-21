@@ -22,6 +22,7 @@ Our MVP will include:
 
 
 group20-chess-game/
+
 │
 ├── .github/
 │   └── workflows/
