@@ -20,27 +20,31 @@ Our MVP will include:
 
 
 
+
 group20-chess-game/
-
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml          
+│
 ├── src/
-
 │   ├── backend/
-
-│   │   └── game.py
-
+│   │   └── game.py            
+│   │
 │   └── ui/
-
-│       └── board.py
-
+│       └── board.py           
+│
 ├── tests/
+│   └── test_core.py           
+│
+├── demo.mp4                   
+├── demo.gif                  
+│
+├── README.md                 
 
-│   └── test\_game.py
 
-├── README.md
 
-```
-
-\*\*Installation\*\*
+**Installation**
 
 1\\. Clone the repository:
 
@@ -50,9 +54,11 @@ group20-chess-game/
 
 2\\. Install dependencies:
 
- - `tkinter` (comes with Python)  
+ - `tkinter` (comes with Python)
+ - python install tk
 
 - `pytest` (for tests)
+- python install pytest
 
 
 
@@ -60,6 +66,7 @@ group20-chess-game/
 
 To run the game:
 python -m src.ui.board
+(Advisable to run on VS code)
 
 
 
@@ -72,7 +79,7 @@ pytest
 
 \- Local two-player chess game with Tkinter interface.
 
-\- Demo video demonstrating gameplay.
+\- Demo video demonstrating gameplay. (in the repo)
 
 \- At least two passing pytest test cases.
 
