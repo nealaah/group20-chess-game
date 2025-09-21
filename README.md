@@ -91,6 +91,6 @@ pytest
 **Notes**
 
 \- Python version: 3.10.
-
 \- The game runs locally without requiring internet access.
+\- Guidance from AI was used for debugging 
 
