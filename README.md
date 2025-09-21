@@ -10,11 +10,19 @@ Our MVP will include:
 * Detection of check and checkmate
 
 **Team Roles**
-
+* Group leade:
+* Neala Daniel Mingyi
 * Backend Team: Piece logic \& rules
+  Neala Daniel Mingyi
+  Faruk Sani Aima
+  Joshua Chukwuma Chime
 * UI Team: Chessboard interface
+  Chidubem Godsfavour Ogbonna
+  Caleb Olugbemi
 * Pytest tests \& CI
+  Ezeani Chidiogo Scholastica
 * Documentation: README, report, demo video
+  Umeakunne Silvia Adaugo
 
  **Project Structure**
 
