@@ -22,26 +22,26 @@ Our MVP will include:
 
 
 group20-chess-game/
-
 │
 ├── .github/
 │   └── workflows/
-│       └── ci.yml          
+│       └── tests.yml          GitHub Actions CI
 │
 ├── src/
 │   ├── backend/
-│   │   └── game.py            
+│   │   └── game.py            Chess game logic
 │   │
 │   └── ui/
-│       └── board.py           
+│       └── board.py           Tkinter UI
 │
 ├── tests/
-│   └── test_core.py           
+│   └── test_game.py           
 │
-├── demo.mp4                   
-├── demo.gif                  
+├── demo.mp4                    Full demo video
+├── demo.gif                    Short demo GIF
 │
-├── README.md                 
+└── README.md                   Project overview
+
 
 
 
