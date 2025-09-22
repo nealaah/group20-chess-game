@@ -13,16 +13,18 @@ Our MVP will include:
 * Group leade:
 * Neala Daniel Mingyi
 * Backend Team: Piece logic \& rules
-  Neala Daniel Mingyi
-  Faruk Sani Aima
-  Joshua Chukwuma Chime
+ * Neala Daniel Mingyi
+ * Faruk Sani Aima
+ * Joshua Chukwuma Chime
+ * Abdulahad Kasim Sulaiman
 * UI Team: Chessboard interface
-  Chidubem Godsfavour Ogbonna
-  Caleb Olugbemi
-* Pytest tests \& CI
-  Ezeani Chidiogo Scholastica
+ * Chidubem Godsfavour Ogbonna
+ * Caleb Olugbemi
+* Pytest tests
+ * Ezeani Chidiogo Scholastica
 * Documentation: README, report, demo video
-  Umeakunne Silvia Adaugo
+ * Umeakunne Silvia Adaugo
+ * Joshua Chukwuma Chime
 
  **Project Structure**
 
