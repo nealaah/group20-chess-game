@@ -10,7 +10,7 @@ Our MVP will include:
 * Detection of check and checkmate
 
 **Team Roles**
-* Group leade:
+* Group lead:
 * Neala Daniel Mingyi
 * Backend Team: Piece logic \& rules
  * Neala Daniel Mingyi
